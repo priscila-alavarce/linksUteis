@@ -1,7 +1,8 @@
-Links Úteis
+# Links Úteis
 
+Links úteis web design e desenvolvimento front-end:
 
-Cores
+## Cores
 
 http://flatcolors.net/
 
@@ -31,7 +32,7 @@ http://getuicolors.com/
 
 http://uigradients.com/
 
-Emuladores
+## Emuladores
 
 http://www.responsimulator.com/
 
@@ -45,7 +46,7 @@ http://iphone5simulator.com/
 
 http://thiagocanudo.com.br/responsa/
 
-Ferramentas
+## Ferramentas
 
 http://howtocenterincss.com/
 
@@ -73,7 +74,7 @@ https://www.webpagetest.org/
 
 https://tinypng.com/
 
-Inspiração
+## Inspiração
 
 https://www.thebestdesigns.com/
 
@@ -111,7 +112,7 @@ https://www.bootstrapzero.com/
 
 http://www.calltoidea.com/
 
-Imagens
+## Imagens
 
 http://allfreephotos.net/
 
@@ -125,7 +126,7 @@ https://unsplash.com/
 
 https://stocksnap.io/
 
-Referências
+## Referências
 
 http://webfatorial.github.io/grid/
 
@@ -141,7 +142,7 @@ https://github.com/lipis/awesome-style-guides
 
 https://tympanus.net/codrops/
 
-Freebies
+## Freebies
 
 https://resourcecards.com/
 
@@ -171,7 +172,7 @@ http://www.teehanlax.com/tools/
 
 http://techandall.com/
 
-Fontes
+## Fontes
 
 http://www.fontspace.com/
 
@@ -187,7 +188,7 @@ http://fontawesome.io/
 
 http://freetypography.com/
 
-Plugins
+## Plugins
 
 http://www.unheap.com/
 
@@ -211,11 +212,11 @@ https://github.com/sebarmeli/JAIL
 
 http://kenwheeler.github.io/slick/
 
-Performance
+## Performance
 
 https://browserdiet.com/pt
 
-Outras Listas
+## Outras Listas
 
 https://github.com/santosluiz/Txt-da-Vida
 
